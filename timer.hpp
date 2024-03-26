@@ -1,7 +1,7 @@
 #pragma once
 #include <chrono>
 
-struct Timer
+class Timer
 {
 public:
     Timer();
